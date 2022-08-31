@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hey I'm Anthony! 👋
 
+- 📚 I’m a third year student at USC studying Computer Engineering and Computer Science
+- 👨‍💻 I’m an experienced web developer
+- 🖥️ I have previous work experience at several tech companies through internships
+- 📫 How to reach me: arassi@usc.edu
 <!--
 **arassi/arassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

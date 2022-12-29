@@ -1,7 +1,6 @@
-### Hey I'm Anthony! 👋
+### 👋!
 
 - 📚 I’m a third year student at USC studying Computer Engineering and Computer Science
-- 👨‍💻 I’m passionate about web development
 - 🖥️ I have previous work experience at several tech companies through internships
 - 📫 How to reach me: arassi@usc.edu
 <!--
